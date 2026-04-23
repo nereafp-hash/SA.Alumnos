@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260423192622FF01R8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260423192622TH9QIS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de aprendizaje.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776856510470</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo9yhm20-909fwhkc7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los medios de comunicación y la construcción de la realidad</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los medios de comunicación y la construcción de la realidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los medios de comunicación y la construcción de la realidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm20-909fwhkc7</odePageId>
+      <odeBlockId>block-1776680278473-tdkt5plnj</odeBlockId>
+      <blockName>DESCRIPCIÓN, INTENCIÓN EDUCATIVA Y CONTEXTO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm20-909fwhkc7</odePageId>
+          <odeBlockId>block-1776680278473-tdkt5plnj</odeBlockId>
+          <odeIdeviceId>idevice-1776680278470-03r969dfu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vais a trabajar sobre los medios de comunicación y su influencia en la sociedad actual.</p>
+<p>A lo largo de las actividades, vais a analizar textos periodísticos, contenidos audiovisuales y mensajes digitales con el objetivo de comprender cómo se construye la información, identificar posibles sesgos y reflexionar sobre cómo influyen los medios en nuestra forma de pensar.</p>
+<p>No solo se trata de entender los textos, sino de que seáis capaces de interpretarlos de manera crítica, cuestionar la información que recibís y crear vuestros propios mensajes de forma responsable, utilizando también herramientas digitales.</p>
+<p>Además, este trabajo está relacionado con algunos de los retos actuales, como el consumo crítico de la información y la lucha contra la desinformación. También se vincula con los siguientes Objetivos de Desarrollo Sostenible:</p>
+<p>ODS 4: Educación de calidad<br />ODS 16: Paz, justicia e instituciones sólidas (lucha contra la desinformación)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776680278470-03r969dfu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vais a trabajar sobre los medios de comunicación y su influencia en la sociedad actual.</p>\n<p>A lo largo de las actividades, vais a analizar textos periodísticos, contenidos audiovisuales y mensajes digitales con el objetivo de comprender cómo se construye la información, identificar posibles sesgos y reflexionar sobre cómo influyen los medios en nuestra forma de pensar.</p>\n<p>No solo se trata de entender los textos, sino de que seáis capaces de interpretarlos de manera crítica, cuestionar la información que recibís y crear vuestros propios mensajes de forma responsable, utilizando también herramientas digitales.</p>\n<p>Además, este trabajo está relacionado con algunos de los retos actuales, como el consumo crítico de la información y la lucha contra la desinformación. También se vincula con los siguientes Objetivos de Desarrollo Sostenible:</p>\n<p>ODS 4: Educación de calidad<br />ODS 16: Paz, justicia e instituciones sólidas (lucha contra la desinformación)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm22-yi88o8go9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm22-yi88o8go9</odePageId>
+      <odeBlockId>block-1776681173814-f200a1963</odeBlockId>
+      <blockName>Elementos curriculares.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm22-yi88o8go9</odePageId>
+          <odeBlockId>block-1776681173814-f200a1963</odeBlockId>
+          <odeIdeviceId>idevice-1776681173812-94w70dney</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li> Competencias clave</li>
+</ul>
+<p>Competencia en comunicación lingüística (CCL) Competencia digital (CD) Competencia personal, social y aprender a aprender (CPSAA)</p>
+<ul>
+<li> Competencias específicas:</li>
+</ul>
+<p>Comprender e interpretar textos de distintos ámbitos, producir textos orales y escritos coherentes y adecuados y analizar críticamente discursos mediáticos</p>
+<ul>
+<li> Saberes básicos:</li>
+</ul>
+<p>Textos periodísticos y digitales.</p>
+<p>Argumentación y opinión Lenguaje de los medios de comunicación.</p>
+<p>Producción de textos multimodales</p>
+<ul>
+<li> Criterios de evaluación:</li>
+</ul>
+<p>Comprende y analiza textos periodísticos.</p>
+<p>Identifica intenciones comunicativas y sesgos.</p>
+<p>Produce textos coherentes orales y escritos.</p>
+<p>Utiliza herramientas digitales en la creación de contenidos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776681173812-94w70dney","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li> Competencias clave</li>\n</ul>\n<p>Competencia en comunicación lingüística (CCL) Competencia digital (CD) Competencia personal, social y aprender a aprender (CPSAA)</p>\n<ul>\n<li> Competencias específicas:</li>\n</ul>\n<p>Comprender e interpretar textos de distintos ámbitos, producir textos orales y escritos coherentes y adecuados y analizar críticamente discursos mediáticos</p>\n<ul>\n<li> Saberes básicos:</li>\n</ul>\n<p>Textos periodísticos y digitales.</p>\n<p>Argumentación y opinión Lenguaje de los medios de comunicación.</p>\n<p>Producción de textos multimodales</p>\n<ul>\n<li> Criterios de evaluación:</li>\n</ul>\n<p>Comprende y analiza textos periodísticos.</p>\n<p>Identifica intenciones comunicativas y sesgos.</p>\n<p>Produce textos coherentes orales y escritos.</p>\n<p>Utiliza herramientas digitales en la creación de contenidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm23-y0g3k9a30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización y producto final.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización y producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización y producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización y producto final.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm23-y0g3k9a30</odePageId>
+      <odeBlockId>block-1776680419073-mg21pak07</odeBlockId>
+      <blockName>Organización y producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm23-y0g3k9a30</odePageId>
+          <odeBlockId>block-1776680419073-mg21pak07</odeBlockId>
+          <odeIdeviceId>idevice-1776680419070-ppbf0lcf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrollará a lo largo de 10 sesiones, en las que trabajaréis de forma individual, en parejas y en grupo.</p>
+<p>Realizaréis las actividades en el aula, en el aula de informática y también utilizando herramientas digitales como Microsoft Teams.</p>
+<p><strong>¿Qué vais a crear?</strong><br />A lo largo de este proyecto vais a elaborar dos productos finales:</p>
+<ul>
+<li>Una infografía interactiva sobre la desinformación (utilizando herramientas como Canva o Genially)</li>
+<li>Un podcast o vídeo informativo en grupo. </li>
+</ul>
+<p>Todos los trabajos se entregarán a través de Microsoft Teams en las fechas indicadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776680419070-ppbf0lcf8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrollará a lo largo de 10 sesiones, en las que trabajaréis de forma individual, en parejas y en grupo.</p>\n<p>Realizaréis las actividades en el aula, en el aula de informática y también utilizando herramientas digitales como Microsoft Teams.</p>\n<p><strong>¿Qué vais a crear?</strong><br />A lo largo de este proyecto vais a elaborar dos productos finales:</p>\n<ul>\n<li>Una infografía interactiva sobre la desinformación (utilizando herramientas como Canva o Genially)</li>\n<li>Un podcast o vídeo informativo en grupo. </li>\n</ul>\n<p>Todos los trabajos se entregarán a través de Microsoft Teams en las fechas indicadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm24-5euarhblv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desarrollo de las sesiones</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm24-5euarhblv</odePageId>
+      <odeBlockId>block-1776857335253-n87v7y9by</odeBlockId>
+      <blockName>Desarrollo de las sesiones.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm24-5euarhblv</odePageId>
+          <odeBlockId>block-1776857335253-n87v7y9by</odeBlockId>
+          <odeIdeviceId>idevice-1776857335249-mpxy5yq6q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesiones 1-2: Introducción y análisis inicial.</strong></p>
+<p><br title="" />En estas primeras sesiones vais a reflexionar sobre los medios de comunicación que utilizáis habitualmente en vuestro día a día (redes sociales, televisión, prensa digital, etc.). Para ello visualizaremos el siguiente vídeo con el fin de aprender a identificar cualquier <a href="https://www.youtube.com/watch?v=qMRm4UE1gOc">fake news</a>. </p>
+<p>Para empezar, comentaréis por parejas dónde os informáis y si consideráis que toda la información que recibís es fiable. A partir de ahí, analizaréis distintos ejemplos de noticias, como las que presento a continuación, <a href="https://www.elcorreoweb.es/sevilla/2026/04/22/cortes-pies-cristal-vasos-feria-sevilla-129395000.html" title="">reales </a>y <a href="https://www.brandwatch.com/es/blog/fake-news-ejemplos/?utm_source=chatgpt.com">falsas </a>para aprender a diferenciarlas.</p>
+<p>Trabajaréis, tal y como acabamos de explicar,  en pequeños grupos y recogeréis vuestras conclusiones en OneNote o en Teams.</p>
+<p>Para comprobar lo que habéis aprendido, realizaréis una <a href="{{context_path}}/content/resources/actividad_fake_news_4ESO.pdf" title="actividad_fake_news_4ESO.pdf">actividad interactiva</a> tipo cuestionario en la que tendréis que identificar si distintas informaciones son verdaderas o falsas. </p>
+<p><strong>Sesiones 3-4: Análisis del lenguaje periodístico. </strong></p>
+<p><br />En estas sesiones vais a aprender cómo se construyen las noticias y para ello trabajaremos con apuntes concretos que explicaremos en clase sobre el texto periodístico. <a href="{{context_path}}/content/resources/LOS TEXTOS PERIODÍSTICOS.pdf" title="LOS TEXTOS PERIODÍSTICOS.pdf">(Descargar PDF)</a></p>
+<p>Analizaréis titulares, imágenes y textos periodísticos para identificar elementos que influyen en la forma en que recibimos la información, como el uso de un lenguaje llamativo o la selección de determinadas imágenes.</p>
+<p><strong>Sesiones 5-6: Creación de la infografía.</strong></p>
+<p><br title="" />En estas sesiones comenzaréis a crear vuestra propia infografía sobre la desinformación. Para ello, antes de empezar, visualizaremos un vídeo de cómo se realiza una <a href="https://www.youtube.com/watch?v=rk_m6NY3s1o">infografía </a>de forma correcta. </p>
+<p>Primero, organizaréis la información que queréis incluir y realizaréis un pequeño esquema previo. Después, diseñaréis la infografía en grupo utilizando herramientas como Canva o Genially.</p>
+<p>Recordad que debe ser clara, visual y contener al menos un elemento interactivo.</p>
+<p>La infografía se entregará a través de Teams y será evaluada siguiendo los criterios que ya se os han explicado.</p>
+<p>Trabajaréis en parejas y realizaréis actividades de análisis que entregaréis a través de Teams.</p>
+<p>A lo largo de estas sesiones se revisará vuestro trabajo para ayudaros a mejorar, por lo que es importante que participéis activamente. </p>
+<p><strong>Sesiones 7-8: Podcast o vídeo.</strong></p>
+<p><br />A continuación, vais a elaborar un podcast o un vídeo informativo en grupo.</p>
+<p>Para ello, prepararéis primero un guion con la información que queréis transmitir y después realizaréis la grabación utilizando dispositivos móviles o herramientas digitales.</p>
+<p>Podéis editar vuestro trabajo si lo consideráis necesario antes de entregarlo en Teams.</p>
+<p>Este producto también será evaluado teniendo en cuenta la claridad de la información, la organización y el uso de recursos digitales y para ello, a continuación, os adjunto un vídeo con las <a href="https://www.youtube.com/watch?v=dhQHPjmk0-k" title="">pautas claves</a> para expresaros con coherencia y cohesión ante los focos. </p>
+<p><strong>Sesiones 9-10: Exposición y evaluación final.</strong></p>
+<p><br />En las últimas sesiones presentaréis vuestros trabajos al resto del grupo y participaréis en un pequeño debate sobre el papel de los medios de comunicación en la sociedad actual.</p>
+<p>Además, reflexionaréis sobre vuestro propio aprendizaje mediante una autoevaluación y también valoraréis el trabajo de vuestros compañeros y compañeras.</p>
+<p>El profesorado evaluará los productos finales utilizando una rúbrica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776857335249-mpxy5yq6q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesiones 1-2: Introducción y análisis inicial.</strong></p>\n<p><br title=\"\" />En estas primeras sesiones vais a reflexionar sobre los medios de comunicación que utilizáis habitualmente en vuestro día a día (redes sociales, televisión, prensa digital, etc.). Para ello visualizaremos el siguiente vídeo con el fin de aprender a identificar cualquier <a href=\"https://www.youtube.com/watch?v=qMRm4UE1gOc\">fake news</a>. </p>\n<p>Para empezar, comentaréis por parejas dónde os informáis y si consideráis que toda la información que recibís es fiable. A partir de ahí, analizaréis distintos ejemplos de noticias, como las que presento a continuación, <a href=\"https://www.elcorreoweb.es/sevilla/2026/04/22/cortes-pies-cristal-vasos-feria-sevilla-129395000.html\" title=\"\">reales </a>y <a href=\"https://www.brandwatch.com/es/blog/fake-news-ejemplos/?utm_source=chatgpt.com\">falsas </a>para aprender a diferenciarlas.</p>\n<p>Trabajaréis, tal y como acabamos de explicar,  en pequeños grupos y recogeréis vuestras conclusiones en OneNote o en Teams.</p>\n<p>Para comprobar lo que habéis aprendido, realizaréis una <a href=\"{{context_path}}/content/resources/actividad_fake_news_4ESO.pdf\" title=\"actividad_fake_news_4ESO.pdf\">actividad interactiva</a> tipo cuestionario en la que tendréis que identificar si distintas informaciones son verdaderas o falsas. </p>\n<p><strong>Sesiones 3-4: Análisis del lenguaje periodístico. </strong></p>\n<p><br />En estas sesiones vais a aprender cómo se construyen las noticias y para ello trabajaremos con apuntes concretos que explicaremos en clase sobre el texto periodístico. <a href=\"{{context_path}}/content/resources/LOS TEXTOS PERIODÍSTICOS.pdf\" title=\"LOS TEXTOS PERIODÍSTICOS.pdf\">(Descargar PDF)</a></p>\n<p>Analizaréis titulares, imágenes y textos periodísticos para identificar elementos que influyen en la forma en que recibimos la información, como el uso de un lenguaje llamativo o la selección de determinadas imágenes.</p>\n<p><strong>Sesiones 5-6: Creación de la infografía.</strong></p>\n<p><br title=\"\" />En estas sesiones comenzaréis a crear vuestra propia infografía sobre la desinformación. Para ello, antes de empezar, visualizaremos un vídeo de cómo se realiza una <a href=\"https://www.youtube.com/watch?v=rk_m6NY3s1o\">infografía </a>de forma correcta. </p>\n<p>Primero, organizaréis la información que queréis incluir y realizaréis un pequeño esquema previo. Después, diseñaréis la infografía en grupo utilizando herramientas como Canva o Genially.</p>\n<p>Recordad que debe ser clara, visual y contener al menos un elemento interactivo.</p>\n<p>La infografía se entregará a través de Teams y será evaluada siguiendo los criterios que ya se os han explicado.</p>\n<p>Trabajaréis en parejas y realizaréis actividades de análisis que entregaréis a través de Teams.</p>\n<p>A lo largo de estas sesiones se revisará vuestro trabajo para ayudaros a mejorar, por lo que es importante que participéis activamente. </p>\n<p><strong>Sesiones 7-8: Podcast o vídeo.</strong></p>\n<p><br />A continuación, vais a elaborar un podcast o un vídeo informativo en grupo.</p>\n<p>Para ello, prepararéis primero un guion con la información que queréis transmitir y después realizaréis la grabación utilizando dispositivos móviles o herramientas digitales.</p>\n<p>Podéis editar vuestro trabajo si lo consideráis necesario antes de entregarlo en Teams.</p>\n<p>Este producto también será evaluado teniendo en cuenta la claridad de la información, la organización y el uso de recursos digitales y para ello, a continuación, os adjunto un vídeo con las <a href=\"https://www.youtube.com/watch?v=dhQHPjmk0-k\" title=\"\">pautas claves</a> para expresaros con coherencia y cohesión ante los focos. </p>\n<p><strong>Sesiones 9-10: Exposición y evaluación final.</strong></p>\n<p><br />En las últimas sesiones presentaréis vuestros trabajos al resto del grupo y participaréis en un pequeño debate sobre el papel de los medios de comunicación en la sociedad actual.</p>\n<p>Además, reflexionaréis sobre vuestro propio aprendizaje mediante una autoevaluación y también valoraréis el trabajo de vuestros compañeros y compañeras.</p>\n<p>El profesorado evaluará los productos finales utilizando una rúbrica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm24-7kywm50v1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad interactiva</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad interactiva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm24-7kywm50v1</odePageId>
+      <odeBlockId>block-1776892330588-f0g59ghpx</odeBlockId>
+      <blockName>Verdadero o falso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm24-7kywm50v1</odePageId>
+          <odeBlockId>block-1776892330588-f0g59ghpx</odeBlockId>
+          <odeIdeviceId>idevice-1776892330581-gi5jw7wt1</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1776892330581-gi5jw7wt1" data-evaluationb="false" data-evaluationid="b58404b1-be86-4436-adb3-213547967581"></div>
+        <div class="TOFP-instructions"><p>A continuación, vas a realizar una actividad de verdadero o falso sobre la desinformación y los medios de comunicación.</p>
+<p>Lee cada afirmación con atención y decide si es verdadera o falsa. Después de responder, podrás ver la corrección y una breve explicación.</p>
+<p>El objetivo es ayudarte a identificar mejor cómo funcionan las noticias y detectar posibles informaciones falsas.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1776892330581-gi5jw7wt1" id="tofPMainContainer-idevice-1776892330581-gi5jw7wt1">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1776892330581-gi5jw7wt1">
+                <div class="TOFP-GameScoreBoard ">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1776892330581-gi5jw7wt1" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1776892330581-gi5jw7wt1">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1776892330581-gi5jw7wt1"></div>
+                </div>
+                <div class="TOFP-StartGameDiv " id="tofPStartGameDiv-idevice-1776892330581-gi5jw7wt1">
+                    <button  id="tofPStartGame-idevice-1776892330581-gi5jw7wt1" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia TOFP-EHidden" id="tofPMultimedia-idevice-1776892330581-gi5jw7wt1">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1776892330581-gi5jw7wt1">
+                    <button id="tofPCheckTest-idevice-1776892330581-gi5jw7wt1" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1776892330581-gi5jw7wt1" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1776892330581-gi5jw7wt1" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1776892330581-gi5jw7wt1","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>A continuación, vas a realizar una actividad de verdadero o falso sobre la desinformación y los medios de comunicación.</p>\n<p>Lee cada afirmación con atención y decide si es verdadera o falsa. Después de responder, podrás ver la corrección y una breve explicación.</p>\n<p>El objetivo es ayudarte a identificar mejor cómo funcionan las noticias y detectar posibles informaciones falsas.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":10,"isTest":true,"time":3,"questionsGame":[{"question":"<p><strong>Todas las noticias que aparecen en redes sociales son siempre fiables.</strong></p>\n<p><strong></strong><br /></p>","feedback":"","suggestion":"","solution":0},{"question":"<p>La desinformación consiste en difundir información falsa o manipulada.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Una noticia falsa siempre es fácil de reconocer a simple vista.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Las fuentes de información no son importantes a la hora de analizar una noticia.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Los titulares pueden influir en la forma en la que interpretamos una noticia</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Es importante comprobar la información antes de compartirla en redes sociales.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Las imágenes nunca pueden utilizarse para manipular la información.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>El lenguaje utilizado en una noticia puede influir en la opinión del lector.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p> <br />Todas las páginas web ofrecen información objetiva y verificada.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Aprender a detectar fake news ayuda a consumir información de forma crítica.</p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"b58404b1-be86-4436-adb3-213547967581","showSlider":false,"ideviceId":"idevice-1776892330581-gi5jw7wt1"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo9yhm24-7kywm50v1</odePageId>
+      <odeBlockId>block-1776892900646-63soulbe1</odeBlockId>
+      <blockName>Adivina</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm24-7kywm50v1</odePageId>
+          <odeBlockId>block-1776892900646-63soulbe1</odeBlockId>
+          <odeIdeviceId>idevice-1776892900645-w3b77chf9</odeIdeviceId>
+          <odeIdeviceTypeName>guess</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="adivina-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776892900645-w3b77chf9" data-evaluationb="false" data-evaluationid="b58404b1-be86-4436-adb3-213547967581"></div><div class="adivina-version js-hidden">2</div><div class="adivina-feedback-game"></div><div class="adivina-instructions gameQP-instructions"><p>A continuación, vas a leer una serie de definiciones relacionadas con los medios de comunicación y la desinformación.</p>
+<p>Tu tarea es escribir la palabra o concepto correcto que corresponde a cada definición.</p>
+<p>Lee con atención cada pista y piensa en el vocabulario trabajado en la unidad.</p></div><div class="adivina-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%B2%F1%FD%FC%E6%FB%FC%E7%F3%F1%FBa%FC%BE%B2%E4%F3%E1%B2%F3%B2%FE%F7%F7%E0%B2%E7%FC%F3%B2%E1%F7%E0%FB%F7%B2%F6%F7%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%B2%E0%F7%FE%F3%F1%FB%FD%FC%F3%F6%F3%E1%B2%F1%FD%FC%B2%FE%FD%E1%B2%FF%F7%F6%FB%FD%E1%B2%F6%F7%B2%F1%FD%FF%E7%FC%FB%F1%F3%F1%FBa%FC%B2%EB%B2%FE%F3%B2%F6%F7%E1%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC%C6%E7%B2%E6%F3%E0%F7%F3%B2%F7%E1%B2%F7%E1%F1%E0%FB%F0%FB%E0%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F1%FD%FC%F1%F7%E2%E6%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%B2%E3%E7%F7%B2%F1%FD%E0%E0%F7%E1%E2%FD%FC%F6%F7%B2%F3%B2%F1%F3%F6%F3%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC%DE%F7%F7%B2%F1%FD%FC%B2%F3%E6%F7%FC%F1%FBa%FC%B2%F1%F3%F6%F3%B2%E2%FB%E1%E6%F3%B2%EB%B2%E2%FB%F7%FC%E1%F3%B2%F7%FC%B2%F7%FE%B2%E4%FD%F1%F3%F0%E7%FE%F3%E0%FB%FD%B2%E6%E0%F3%F0%F3%F8%F3%F6%FD%B2%F7%FC%B2%FE%F3%B2%E7%FC%FB%F6%F3%F6%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%E6%FB%FF%F7%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%A1%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A2%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%D6%F7%E1%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%F4%F3%FE%E1%F3%B2%FD%B2%FF%F3%FC%FB%E2%E7%FE%F3%F6%F3%B2%E3%E7%F7%B2%E1%F7%B2%F6%FB%F4%E7%FC%F6%F7%B2%F1%FD%FC%B2%FE%F3%B2%FB%FC%E6%F7%FC%F1%FBa%FC%B2%F6%F7%B2%F7%FC%F5%F3c%F3%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DC%FD%E6%FB%F1%FB%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DC%FD%E6%FB%F1%FB%F3%B2%E3%E7%F7%B2%E1%F7%B2%E6%E0%F3%FC%E1%FF%FB%E6%F7%B2%F3%B2%E6%E0%F3%E4%7B%E1%B2%F6%F7%B2%FF%F7%F6%FB%FD%E1%B2%F6%F7%B2%F1%FD%FF%E7%FC%FB%F1%F3%F1%FBa%FC%B2%F1%FD%FF%FD%B2%E2%E0%F7%FC%E1%F3%BE%B2%E6%F7%FE%F7%E4%FB%E1%FBa%FC%B2%FD%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C6%FB%E6%E7%FE%F3%E0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F4%E0%F3%E1%F7%B2%E3%E7%F7%B2%F7%FC%F1%F3%F0%F7%E8%F3%B2%E7%FC%F3%B2%FC%FD%E6%FB%F1%FB%F3%B2%EB%B2%E0%F7%E1%E7%FF%F7%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%FB%F6%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D4%E7%F7%FC%E6%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F7%E0%E1%FD%FC%F3%B2%FD%B2%FF%F7%F6%FB%FD%B2%F6%F7%FE%B2%E3%E7%F7%B2%E2%E0%FD%F1%F7%F6%F7%B2%E7%FC%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%E7%F7%E0%E2%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%E6%F7%B2%F6%F7%B2%E7%FC%F3%B2%FC%FD%E6%FB%F1%FB%F3%B2%F6%FD%FC%F6%F7%B2%E1%F7%B2%F6%F7%E1%F3%E0%E0%FD%FE%FE%F3%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E2%E0%FB%FC%F1%FB%E2%F3%FE%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D4%F3%F9%F7%B2%FC%F7%E5%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DC%FD%E6%FB%F1%FB%F3%B2%F4%F3%FE%E1%F3%B2%F1%E0%F7%F3%F6%F3%B2%F1%FD%FC%B2%FB%FC%E6%F7%FC%F1%FBa%FC%B2%F6%F7%B2%F7%FC%F5%F3c%F3%E0%B2%FD%B2%FF%F3%FC%FB%E2%E7%FE%F3%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%F1%E6%FB%E4%F3%E6%F7%C6%E0%F3%FC%E1%FE%F3%E6%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%A7%AA%A6%A2%A6%F0%A3%BF%F0%F7%AA%A4%BF%A6%A6%A1%A4%BF%F3%F6%F0%A1%BF%A0%A3%A1%A7%A6%A5%AB%A4%A5%A7%AA%A3%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%AA%AB%A0%AB%A2%A2%A4%A6%A7%BF%E5%A1%F0%A5%A5%F1%FA%F4%AB%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%EF%EF</div><div class="adivina-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm26-15f9r4haw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm26-15f9r4haw</odePageId>
+      <odeBlockId>block-1776698976957-xpazts17u</odeBlockId>
+      <blockName>Diseño Universal de Aprendizaje.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm26-15f9r4haw</odePageId>
+          <odeBlockId>block-1776698976957-xpazts17u</odeBlockId>
+          <odeIdeviceId>idevice-1776698976953-dgs6kzxu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vais a trabajar con diferentes tipos de materiales para facilitar la comprensión de los contenidos, como textos, imágenes, vídeos y actividades interactivas.</p>
+<p>Además, podréis elegir cómo realizar uno de los productos finales, ya que podréis optar por crear un podcast o un vídeo, según vuestras preferencias.</p>
+<p>Trabajaréis tanto de forma individual como en grupo, organizando las tareas entre las personas del equipo para que todas podáis participar activamente.</p>
+<p>También contaréis con ejemplos, guías y explicaciones paso a paso que os ayudarán durante todo el proceso.</p>
+<p>Si necesitáis más tiempo o apoyo en alguna actividad, podréis adaptarlo según vuestras necesidades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776698976953-dgs6kzxu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vais a trabajar con diferentes tipos de materiales para facilitar la comprensión de los contenidos, como textos, imágenes, vídeos y actividades interactivas.</p>\n<p>Además, podréis elegir cómo realizar uno de los productos finales, ya que podréis optar por crear un podcast o un vídeo, según vuestras preferencias.</p>\n<p>Trabajaréis tanto de forma individual como en grupo, organizando las tareas entre las personas del equipo para que todas podáis participar activamente.</p>\n<p>También contaréis con ejemplos, guías y explicaciones paso a paso que os ayudarán durante todo el proceso.</p>\n<p>Si necesitáis más tiempo o apoyo en alguna actividad, podréis adaptarlo según vuestras necesidades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm26-6gisrnwb5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm26-6gisrnwb5</odePageId>
+      <odeBlockId>block-1776699095541-hjq4vhw2i</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm26-6gisrnwb5</odePageId>
+          <odeBlockId>block-1776699095541-hjq4vhw2i</odeBlockId>
+          <odeIdeviceId>idevice-1776699095538-w5dt0grd7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li> Rúbrica:</li>
+</ul>
+<p>Contenido y rigor (40%)</p>
+<p>Expresión y comunicación (20%)</p>
+<p>Creatividad (20%)</p>
+<p>Uso de herramientas digitales (20%)</p>
+<ul>
+<li> Lista de cotejo:</li>
+</ul>
+<p>Entrega del producto.</p>
+<p>Participación en grupo.</p>
+<p>Uso adecuado de herramientas digitales.</p>
+<p>Cumplimiento de tiempos Exposición oral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776699095538-w5dt0grd7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li> Rúbrica:</li>\n</ul>\n<p>Contenido y rigor (40%)</p>\n<p>Expresión y comunicación (20%)</p>\n<p>Creatividad (20%)</p>\n<p>Uso de herramientas digitales (20%)</p>\n<ul>\n<li> Lista de cotejo:</li>\n</ul>\n<p>Entrega del producto.</p>\n<p>Participación en grupo.</p>\n<p>Uso adecuado de herramientas digitales.</p>\n<p>Cumplimiento de tiempos Exposición oral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo9yhm26-9av723vjj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencia y descarga</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo9yhm26-9av723vjj</odePageId>
+      <odeBlockId>block-1776699196017-8ty9cycc7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm26-9av723vjj</odePageId>
+          <odeBlockId>block-1776699196017-8ty9cycc7</odeBlockId>
+          <odeIdeviceId>idevice-1776699196014-tzrroaz8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/6ae62f81-a1c9-8e8a-59e3-bc6bcf6f8d85.png" width="792" height="147" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776699196014-tzrroaz8a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/6ae62f81-a1c9-8e8a-59e3-bc6bcf6f8d85.png\" width=\"792\" height=\"147\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo9yhm26-9av723vjj</odePageId>
+      <odeBlockId>block-1776699290832-cewlespce</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo9yhm26-9av723vjj</odePageId>
+          <odeBlockId>block-1776699290832-cewlespce</odeBlockId>
+          <odeIdeviceId>idevice-1776699290829-cst9wf2zy</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Descargar archivo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">-</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
